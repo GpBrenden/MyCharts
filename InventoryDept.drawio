@@ -91,9 +91,11 @@
         <mxCell id="OhTLcOH7i0x_yeUp_DMc-12" edge="1" parent="1" source="pLldpF8WhY5j1nOrbwq--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pLldpF8WhY5j1nOrbwq--18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pLldpF8WhY5j1nOrbwq--17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Inventory Manager" vertex="1">
-          <mxGeometry height="60" width="120" x="400" y="-10" as="geometry" />
-        </mxCell>
+        <object label="Inventory Manager&lt;div&gt;EE:&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;%EEName%&lt;/span&gt;&lt;/div&gt;" EEName="Roudy" SuggestedWage="?" JD="" ProcessFlow="" placeholders="1" id="pLldpF8WhY5j1nOrbwq--17">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1">
+            <mxGeometry height="80" width="120" x="400" y="-10" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="pLldpF8WhY5j1nOrbwq--18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="C&amp;amp;C&amp;nbsp;" vertex="1">
           <mxGeometry height="40" width="50" x="640" y="40" as="geometry" />
         </mxCell>
