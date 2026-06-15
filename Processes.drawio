@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Inventory Manager" id="Zrh7UeqDySN1ME1NFNXS">
-    <mxGraphModel dx="4867" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2168" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,14 +55,20 @@
         <mxCell id="gbMzrxlXN-54JhyzONhm-17" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Cash &amp; Carry&#xa;Pickup accuracy, order verification, documentation" vertex="1">
           <mxGeometry height="126" width="260" x="435" y="693" as="geometry" />
         </mxCell>
+        <mxCell id="potvly-DJhrVYkPUAa2F-2" edge="1" parent="1" source="gbMzrxlXN-54JhyzONhm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="gbMzrxlXN-54JhyzONhm-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gbMzrxlXN-54JhyzONhm-18" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Research &amp; Verify Issue" vertex="1">
           <mxGeometry height="54" width="226" x="1231" y="869" as="geometry" />
+        </mxCell>
+        <mxCell id="potvly-DJhrVYkPUAa2F-1" edge="1" parent="1" source="gbMzrxlXN-54JhyzONhm-19" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="gbMzrxlXN-54JhyzONhm-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gbMzrxlXN-54JhyzONhm-19" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Root Cause Identified?" vertex="1">
           <mxGeometry height="213" width="213" x="1357" y="973" as="geometry" />
         </mxCell>
         <mxCell id="gbMzrxlXN-54JhyzONhm-20" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Continue Research or Escalate" vertex="1">
-          <mxGeometry height="78" width="260" x="1075" y="1260" as="geometry" />
+          <mxGeometry height="78" width="260" x="844" y="1140" as="geometry" />
         </mxCell>
         <mxCell id="gbMzrxlXN-54JhyzONhm-21" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Classify Root Cause" vertex="1">
           <mxGeometry height="54" width="198" x="1385" y="1272" as="geometry" />
@@ -323,21 +329,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1464" y="948" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gbMzrxlXN-54JhyzONhm-71" edge="1" parent="1" source="gbMzrxlXN-54JhyzONhm-19" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.52;entryY=0.01;rounded=0;" target="gbMzrxlXN-54JhyzONhm-20" value="No">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1216" y="1223" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gbMzrxlXN-54JhyzONhm-72" edge="1" parent="1" source="gbMzrxlXN-54JhyzONhm-20" style="curved=1;startArrow=none;endArrow=block;exitX=0.46;exitY=0.01;entryX=0.14;entryY=1;rounded=0;" target="gbMzrxlXN-54JhyzONhm-18" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1187" y="1223" />
-              <mxPoint x="1187" y="948" />
             </Array>
           </mxGeometry>
         </mxCell>
